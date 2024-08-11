@@ -1,0 +1,1 @@
+Features:age - Agesex - Sexcp - Chest Pain Typetrtbps - Resting Blood Pressurechol - Cholesterolfbs - Fasting Blood Sugarrestecg - Resting Electrocardiographic Resultsthalachh - Maximum Heart Rate Achievedexng - Exercise-Induced Anginaoldpeak - ST Depression slp - Slope of the Peak Exercise caa - Number of Vessels thall - Thalassemiaoutput - Heart Disease
